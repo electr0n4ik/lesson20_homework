@@ -6,6 +6,7 @@ flask-restx==0.5.1
 Flask-SQLAlchemy==2.5.1
 greenlet==1.1.2
 importlib-metadata==4.8.1
+importlib-resources==5.4.0
 itsdangerous==2.0.1
 Jinja2==3.0.2
 jsonschema==4.1.2
@@ -18,3 +19,6 @@ SQLAlchemy==1.4.26
 typing-extensions==3.10.0.2
 Werkzeug==2.0.2
 zipp==3.6.0
+
+pytest~=6.2.5
+config~=0.5.1

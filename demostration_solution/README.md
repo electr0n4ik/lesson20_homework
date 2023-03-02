@@ -1,1 +1,0 @@
-# lesson18 demonstration
